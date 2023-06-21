@@ -1,0 +1,3 @@
+org\example\HibernateTest.class
+org\example\pojo\User.class
+org\example\HibernateUtil.class
