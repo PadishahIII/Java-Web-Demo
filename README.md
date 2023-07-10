@@ -1,2 +1,2 @@
-# Java-Web-Demo
-Java web各种架构的开发demo
+# Java-Web-Demo(Updating...)
+Java web development demo with different archs for study purpose
